@@ -29,4 +29,5 @@ Make the irrigation automatic and, consequently, help keeping the plant moist al
 *Colaboradores: Leonardo Gabriel Lopes, Fellipe Tomasella Melhorança e Gabriel Belém.*
 
 ![20220625_140802](https://user-images.githubusercontent.com/69444717/177435849-a0d5db28-5ae1-4477-9b92-3f3fc7788327.jpg)
+![20220625_141059](https://user-images.githubusercontent.com/69444717/177436229-5a1ca08a-48cd-478f-ac87-c4a706c4818a.jpg)
 
