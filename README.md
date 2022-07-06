@@ -31,5 +31,7 @@ Make the irrigation automatic and, consequently, help keeping the plant moist al
 ![20220625_140802](https://user-images.githubusercontent.com/69444717/177435849-a0d5db28-5ae1-4477-9b92-3f3fc7788327.jpg)
 ![20220625_141059](https://user-images.githubusercontent.com/69444717/177436229-5a1ca08a-48cd-478f-ac87-c4a706c4818a.jpg)
 ![20220625_140848](https://user-images.githubusercontent.com/69444717/177436433-dbd25c2d-f9fd-4b7f-9ebc-5d274c77e42b.jpg)
+![20220704_132255](https://user-images.githubusercontent.com/69444717/177436508-0c588ff4-b985-4537-8c90-01016cf34274.jpg)
+
 
 
