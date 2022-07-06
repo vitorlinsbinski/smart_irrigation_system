@@ -34,4 +34,6 @@ Make the irrigation automatic and, consequently, help keeping the plant moist al
 
 [Vídeo do projeto em funcionamento](https://www.youtube.com/watch?v=mXrFLwPe_-0)
 
+## Circuito análogo utilizado no sistema / Analog circuit used in the system:
+![Bodacious Blorr-Curcan](https://user-images.githubusercontent.com/69444717/177440062-1b2517ea-16ae-4fbc-8218-9506603d7bab.png)
 
